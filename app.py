@@ -1,4 +1,3 @@
 import streamlit as st
 
-
-st.header('hello earth')
+st.title(":blue[MANISHA EDIGA]")
